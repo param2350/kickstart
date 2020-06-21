@@ -1,0 +1,38 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/param2350/kickstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/param2350/kickstart/issues"
+  },
+  "homepage": "https://github.com/param2350/kickstart#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "ganache-cli": "^6.8.1",
+    "jquery": "^3.5.0",
+    "mocha": "^7.0.0",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "reacct": "0.0.1-security",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "semantic-ui-react": "^0.88.2",
+    "solc": "^0.4.26",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
