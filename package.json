@@ -24,7 +24,7 @@
     "fs-extra": "^8.1.0",
     "ganache-cli": "^6.8.1",
     "jquery": "^3.5.0",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "next": "^4.1.4",
     "next-routes": "^1.4.2",
     "reacct": "0.0.1-security",
